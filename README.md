@@ -34,7 +34,7 @@
 
 ## 📌 Featured Projects
 
-🔗 [All My Projects (GitHub)](https://github.com/<!-- Replace with your username -->yourusername/All-Projects#)
+🔗 [All My Projects (GitHub)]([https://github.com/](https://github.com/PranjalU001/PranjalU001/)<!-- Replace with your username -->yourusername/All-Projects#)
 
 ---
 
