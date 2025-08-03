@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science at <!-- Optional: Replace with your university --> **Your University**
+- 🎓 Pursuing B.Tech in Computer Science at <!-- Optional: Replace with your university --> **Poornima University**
 - 💻 I love turning ideas into working code  
 - 🐍 Fluent in Python — from automation to web development  
 - 🌐 Web enthusiast: HTML, CSS, JavaScript, Flask, Django  
