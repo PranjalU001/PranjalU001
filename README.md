@@ -9,8 +9,7 @@
 
 - 🎓 Pursuing B.Tech in Computer Science at <!-- Optional: Replace with your university --> **Poornima University**
 - 💻 I love turning ideas into working code  
-- 🐍 Fluent in Python — from automation to web development  
-- 🌐 Web enthusiast: HTML, CSS, JavaScript, Flask, Django  
+- 🐍 Fluent in Python — from automation to web development   
 - 🔍 Passionate about learning, debugging, and building  
 - 🤝 Open to collaboration, tech talks, and open-source contributions  
 - 🎯 Aspiring Full-Stack Developer  
