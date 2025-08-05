@@ -1,6 +1,6 @@
 ![Banner](assets/my_banner.png)
 
-<h1 align="center">Hi there 👋, I'm <!-- Replace with your name --> **Pranjal Upadhyay**</h1>
+<h1 align="center">Hi there 👋, I'm <!-- Replace with your name --> Pranjal Upadhyay</h1>
 <h3 align="center">Software Engineer | Computer Science Student | Tech Explorer</h3>
 
 ---
