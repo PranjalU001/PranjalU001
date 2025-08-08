@@ -1,7 +1,7 @@
 ![Banner](assets/my_banner.png)
 
 <h1 align="center">Hi there 👋, I'm  Pranjal Upadhyay</h1>
-<h3 align="center">Software Engineer | Computer Science Student | Tech Explorer</h3>
+<h3 align="center">Software Engineer | Computer Science Student | Tech Explorer |</h3>
 
 ---
 
