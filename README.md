@@ -2,16 +2,14 @@
 
 <hr>
   <a href="https://pranjalu001.github.io/my_portfolio_website/" target="_blank">
-    <img src="assest//portfolio.png" />
+    <img src="portfolio.png" />
   </a>
 </p>
  
 <h1 align="left">👋 Hi, I'm Pranjal Upadhyay</h1>
 
 ## AI & Data Science Student | Aspiring Data Engineer
-
 <br>
-
 ## 👨‍💻 About Me
 - 🎓 I'm currently a student at **Poornima University** <!-- Add your university -->
 - 💡 I love working on **AI, Data Engineering, ML**
@@ -31,9 +29,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,pandas,numpy,sklearn,tensorflow" height="40" />
   <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo"/>
 </div>
-
 <br>
-
 ## 📂 My Projects
 Here is the link of all my Projects:  
 <a href="https://github.com/YOUR_USERNAME/All-Projects" target="_blank">Click here</a> <!-- Upcomming Addition -->
