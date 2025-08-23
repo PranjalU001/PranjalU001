@@ -1,12 +1,7 @@
 ![my_banner](assets//my_banner.png)
 
 <hr>
-
-<p align="center">
-  <a href="https://your-blog-link.com" target="_blank"> <!-- Add your blog link -->
-    <img src="https://img.shields.io/badge/Blog-Visit-white?style=for-the-badge&logo=hashnode&labelColor=000000&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank"> <!-- Add your portfolio link -->
+  <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://pranjalu001.github.io/my_portfolio_website/" />
   </a>
 </p>
