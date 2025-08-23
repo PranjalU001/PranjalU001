@@ -68,7 +68,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<!-- yourusername -->yourusername&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<!-- yourusername -->Pranajl Upadhayay&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=<!-- yourusername -->yourusername&layout=compact&theme=dracula" height="150" />
 </div>
 
