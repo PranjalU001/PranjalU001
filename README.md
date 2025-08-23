@@ -69,9 +69,6 @@ Here is the link of all my Projects:
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalU001&layout=compact&theme=dracula" height="150" alt="languages graph"/>
   </a>
   <a href="https://github.com/PranjalU001">
-    <img src="https://github-profile-trophy.vercel.app/?username=PranjalU001&theme=dracula&no-frame=false" height="150" alt="trophy graph"/>
-  </a>
-  <a href="https://github.com/PranjalU001">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalU001&theme=react&area=true" height="300" alt="activity graph"/>
   </a>
 </div>
