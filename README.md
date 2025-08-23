@@ -10,7 +10,7 @@
 
 ## AI & Data Science Student | Aspiring Data Engineer
 <br>
-<h3> align="left">👨‍💻 About Me </h3>
+<h3 align="left">👨‍💻 About Me </h3>
 <br>  
 - 🎓 Currently pursuing my studies at **Poornima University**  
 <br>  
