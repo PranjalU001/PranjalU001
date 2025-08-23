@@ -1,77 +1,86 @@
-![Banner](assets/my_banner.png)
+![my_banner](assets//my_banner.png)
 
-<h1 align="center">Hi there 👋, I'm  Pranjal Upadhyay</h1>
-<h3 align="center">Software Engineer | Computer Science Student | Tech Explorer |</h3>
+<hr>
 
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing B.Tech in Computer Science at <!-- Optional: Replace with your university --> **Poornima University**
-- 💻 I love turning ideas into working code  
-- 🐍 Fluent in Python — from automation to web development   
-- 🔍 Passionate about learning, debugging, and building  
-- 🤝 Open to collaboration, tech talks, and open-source contributions  
-- 🎯 Aspiring Full-Stack Developer  
-
----
-
-## 🧠 Tech Stack
-
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
-![Flask](https://skillicons.dev/icons?i=flask)  
-![Django](https://skillicons.dev/icons?i=django)  
-![R](https://skillicons.dev/icons?i=r)  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![VSCode](https://skillicons.dev/icons?i=vscode)  
-![Kaggle](https://cdn.simpleicons.org/kaggle/20BEFF)
-
----
-
-## 📌 Featured Projects
-
-🔗 [All My Projects (GitHub)]([https://github.com/](https://github.com/PranjalU001/PranjalU001/)PranjalU001/All-Projects#)
-
----
-
-## 📬 Connect With Me
-
-<p align="left">
-  <a href="https://in.linkedin.com/in/<!-- your-linkedin -->" target="_blank"><img alt="LinkedIn" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"></a>
-  <a href="https://x.com/<!-- your-twitter -->" target="_blank"><img alt="Twitter" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"></a>
-  <a href="https://discord.gg/<!-- your-discord -->" target="_blank"><img alt="Discord" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"></a>
-  <a href="https://www.youtube.com/@<!-- your-youtube -->" target="_blank"><img alt="YouTube" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"></a>
-  <a href="https://www.instagram.com/<!-- your-instagram -->" target="_blank"><img alt="Instagram" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"></a>
-  <a href="https://stackoverflow.com/users/<!-- your-so-id -->" target="_blank"><img alt="StackOverflow" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg"></a>
-  <a href="https://www.hackerrank.com/<!-- your-hackerrank -->" target="_blank"><img alt="HackerRank" height="40" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg"></a>
-</p>
-
----
-
-## 💼 Hire Me
-
-<p align="left">
-  <a href="https://www.fiverr.com/s/<!-- your-fiverr-code -->" target="_blank">
-    <img src="assets/fiverr.png" alt="Fiverr" height="50" />
+<p align="center">
+  <a href="https://your-blog-link.com" target="_blank"> <!-- Add your blog link -->
+    <img src="https://img.shields.io/badge/Blog-Visit-white?style=for-the-badge&logo=hashnode&labelColor=000000&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~<!-- your-upwork-id -->" target="_blank">
-    <img src="assets/upwork.png" alt="Upwork" height="50" />
+  <a href="https://your-portfolio-link.com" target="_blank"> <!-- Add your portfolio link -->
+    <img src="https://pranjalu001.github.io/my_portfolio_website/" />
   </a>
 </p>
+ 
+<h1 align="left">👋 Hi, I'm Pranjal Upadhyay</h1>
 
----
+## AI & Data Science Student | Aspiring Data Engineer
 
-## 📊 GitHub Stats
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<!-- yourusername -->Pranajl Upadhayay&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=<!-- yourusername -->yourusername&layout=compact&theme=dracula" height="150" />
+## 👨‍💻 About Me
+- 🎓 I'm currently a student at **Poornima University** <!-- Add your university -->
+- 💡 I love working on **AI, Data Engineering, ML**
+- 🧠 My comfort zone: **Python, SQL, C++**
+- 🚀 My goal: **Become a Data Engineer**
+- 📚 When not coding, I’m usually **Gaming**
+
+<br>
+
+## 🛠️ My Tech Stack
+<div align="left">
+  <!-- Replace/add skills you know -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,pandas,numpy,sklearn,tensorflow" height="40" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<!-- yourusername -->yourusername&theme=react-dark&area=true&radius=16" height="300" />
+<br>
+
+## 📂 My Projects
+Here is the link of all my Projects:  
+<a href="https://github.com/YOUR_USERNAME/All-Projects" target="_blank">Click here</a> <!-- Upcomming Addition -->
+
+### Featured Projects
+- [Project 1](https://github.com/PranjalU001/Personalized-Recommendation-System.git)
+- [Project 2](https://github.com/PranjalU001/PranjalU001-P-3_Interactive-Scalable-Discussion_-Forum.git)
+
+<br>
+
+## 🌐 Connect with me 
+<div align="left">
+  <a href="https://www.linkedin.com/in/pranjal-upadhyay-6a98a72a6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
+  </a>
+  <a href="https://x.com/imPupadhyay18" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40"/>
+  </a>
+  <a href="https://discord.com/channels/@pranjalupadhyay.18" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/@Toxic.Code01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/pranjal2007" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="52" height="40"/>
+  </a>
+</div>
+
+<br>
+## 📊 GitHub Stats
+<div align="left">
+  <a href="https://github.com/PranjalU001">
+    <img src="https://github-readme-stats.vercel.app/api?username=PranjalU001&show_icons=true&theme=dracula" height="150" alt="stats graph"/>
+  </a>
+  <a href="https://github.com/PranjalU001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalU001&layout=compact&theme=dracula" height="150" alt="languages graph"/>
+  </a>
+  <a href="https://github.com/PranjalU001">
+    <img src="https://github-profile-trophy.vercel.app/?username=PranjalU001&theme=dracula&no-frame=false" height="150" alt="trophy graph"/>
+  </a>
+  <a href="https://github.com/PranjalU001">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalU001&theme=react&area=true" height="300" alt="activity graph"/>
+  </a>
 </div>
