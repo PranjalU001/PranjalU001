@@ -10,14 +10,17 @@
 
 ## AI & Data Science Student | Aspiring Data Engineer
 <br>
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
+<br>  
 - 🎓 Currently pursuing my studies at **Poornima University**  
-- 💡 Passionate about **Artificial Intelligence, Data Engineering, and Machine Learning**  
-- 🧠 Skilled in **Python, SQL, and C++**  
+<br>  
+- 💡 Passionate about **Artificial Intelligence**, **Data Engineering**, and **Machine Learning**  
+<br>  
+- 🧠 Skilled in **Python**, **SQL**, and **C++**  
+<br>  
 - 🚀 Aspiring to become a **Data Engineer**  
-- 🎮 Outside of coding, I enjoy **gaming**  
-
-
+<br>  
+- 🎮 Outside of coding, I enjoy **Gaming**  
 <br>
 
 ## 🛠️ My Tech Stack
