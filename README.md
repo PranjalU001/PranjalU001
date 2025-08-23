@@ -2,7 +2,7 @@
 
 <hr>
   <a href="https://pranjalu001.github.io/my_portfolio_website/" target="_blank">
-    <img src="portfolio.png" />
+    <img src="portfolio.png" width="40" height="40" />
   </a>
 </p>
  
