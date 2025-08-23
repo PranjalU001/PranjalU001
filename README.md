@@ -1,7 +1,7 @@
 ![my_banner](assets//my_banner.png)
 
 <hr>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://pranjalu001.github.io/my_portfolio_website/" target="_blank">
     <img src="https://pranjalu001.github.io/my_portfolio_website/" />
   </a>
 </p>
