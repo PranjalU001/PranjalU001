@@ -14,35 +14,35 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 Student at **Poornima University**  
+- 🎓 Currently pursuing my studies at **Poornima University**  
 - 💡 Passionate about **Artificial Intelligence**, **Data Engineering**, and **Machine Learning**  
 - 🧠 Skilled in **Python**, **SQL**, and **C++**  
-- 🚀 Aspiring **Data Engineer**  
-- 🎮 Love **Gaming** outside coding  
+- 🚀 Aspiring to become a **Data Engineer**  
+- 🎮 Outside of coding, I enjoy **Gaming**  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ My Tech Stack  
 
 **Languages:**  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>  
 
 **Data & ML:**  
-![Pandas](https://skillicons.dev/icons?i=pandas)  
-![Numpy](https://skillicons.dev/icons?i=numpy)  
-![Scikit-learn](https://skillicons.dev/icons?i=sklearn)  
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)  
-![Power BI](https://skillicons.dev/icons?i=powerbi)  
+<img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas logo"/>  
+<img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy logo"/>  
+<img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo"/>  
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"/>  
+<img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo"/>  
 
 **Tools & Cloud:**  
-![Git](https://skillicons.dev/icons?i=git)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![VS Code](https://skillicons.dev/icons?i=vscode)  
-![AWS](https://skillicons.dev/icons?i=aws)  
-![Azure](https://skillicons.dev/icons?i=azure)  
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>  
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>  
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>  
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"/>  
+<img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"/>  
 
 ---
 
@@ -60,11 +60,21 @@ Here’s the link to all my projects:
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranjal-upadhyay-6a98a72a6/)  
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/imPupadhyay18)  
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@pranjalupadhyay.18)  
-[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@Toxic.Code01)  
-[![Kaggle](https://cdn.simpleicons.org/kaggle/20BEFF)](https://www.kaggle.com/pranjal2007)  
+<a href="https://www.linkedin.com/in/pranjal-upadhyay-6a98a72a6/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+</a>
+<a href="https://x.com/imPupadhyay18" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/>
+</a>
+<a href="https://discord.com/channels/@pranjalupadhyay.18" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" width="40" height="40"/>
+</a>
+<a href="https://www.youtube.com/@Toxic.Code01" target="_blank">
+  <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40"/>
+</a>
+<a href="https://www.kaggle.com/pranjal2007" target="_blank">
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40"/>
+</a>  
 
 ---
 
