@@ -3,6 +3,7 @@
 <hr>
 
 🔗 [**Visit My Portfolio Website**](https://pranjalu001.github.io/my_portfolio_website/)
+🔗 [**Visit My Credly**](https://www.credly.com/users/pranjal-upadhyay.18)
 
 ---
 
