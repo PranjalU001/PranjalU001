@@ -22,27 +22,15 @@
 
 ---
 
-## 🛠️ My Tech Stack  
-
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>  
-
-**Data & ML:**  
-<img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas logo"/>  
-<img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy logo"/>  
-<img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo"/>  
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"/>  
-<img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo"/>  
-
-**Tools & Cloud:**  
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>  
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>  
-<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>  
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"/>  
-<img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"/>  
+## 🛠️ My Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,azure,pandas,numpy,sklearn,tensorflow" height="40"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo"/>
+</div>
 
 ---
 
@@ -58,33 +46,34 @@ Here’s the link to all my projects:
 
 ---
 
-## 🌐 Connect with Me  
-
-<a href="https://www.linkedin.com/in/pranjal-upadhyay-6a98a72a6/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
-</a>
-<a href="https://x.com/imPupadhyay18" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40"/>
-</a>
-<a href="https://discord.com/channels/@pranjalupadhyay.18" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" width="40" height="40"/>
-</a>
-<a href="https://www.youtube.com/@Toxic.Code01" target="_blank">
-  <img src="https://skillicons.dev/icons?i=youtube" width="40" height="40"/>
-</a>
-<a href="https://www.kaggle.com/pranjal2007" target="_blank">
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40"/>
-</a>  
+## 🌐 Connect with me  
+<div align="left">
+  <a href="https://www.linkedin.com/in/pranjal-upadhyay-6a98a72a6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
+  </a>
+  <a href="https://x.com/imPupadhyay18" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40"/>
+  </a>
+  <a href="https://discord.com/channels/@pranjalupadhyay.18" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/@Toxic.Code01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/pranjal2007" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="52" height="40"/>
+  </a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranjalU001&show_icons=true&theme=dracula" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalU001&layout=compact&theme=dracula" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=PranjalU001&show_icons=true&theme=dracula" height="150" alt="stats graph"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalU001&layout=compact&theme=dracula" height="150" alt="languages graph"/>  
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalU001&theme=react&area=true" height="250"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalU001&theme=react&area=true" height="250" alt="activity graph"/>  
 </p>
