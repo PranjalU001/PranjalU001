@@ -2,8 +2,16 @@
 
 <hr>
 
-🔗 [**Visit My Portfolio Website**](https://pranjalu001.github.io/my_portfolio_website/)
-🔗 [**Visit My Credly**](https://www.credly.com/users/pranjal-upadhyay.18)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://pranjalu001.github.io/my_portfolio_website/" target="_blank">
+    🔗 <b>Visit My Portfolio Website</b>
+  </a>
+  
+  <a href="https://www.credly.com/users/pranjal-upadhyay.18" target="_blank">
+    🔗 <b>Visit My Credly</b>
+  </a>
+</div>
+
 
 ---
 
