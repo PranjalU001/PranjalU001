@@ -34,7 +34,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+<<<<<<< HEAD
   <img src="AWS-Logo.png" height="40" alt="aws logo"/>
+=======
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo"/>
+>>>>>>> cb1ab1a1f945cc9407fc096618473925e9920776
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"/>
 
   <!-- Data & ML Libraries -->
@@ -44,7 +48,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
 
   <!-- Visualization -->
+<<<<<<< HEAD
   <img src="Power-BI.png" height="40" alt="powerbi logo"/>
+=======
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="powerbi logo"/>
+>>>>>>> cb1ab1a1f945cc9407fc096618473925e9920776
 </div>
 
 
