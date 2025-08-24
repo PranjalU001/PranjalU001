@@ -2,17 +2,19 @@
 
 <hr>
 
-<p align="left">
-  <a href="https://pranjalu001.github.io/my_portfolio_website/" target="_blank">
-    🔗 <b>Visit My Portfolio Website</b>
-  </a>
-</p>
+<div style="overflow: hidden; width: 100%;">
+  <div style="float: left;">
+    <a href="https://pranjalu001.github.io/my_portfolio_website/" target="_blank">
+      🔗 <b>Visit My Portfolio Website</b>
+    </a>
+  </div>
 
-<p align="right">
-  <a href="https://www.credly.com/users/pranjal-upadhyay.18" target="_blank">
-    🔗 <b>Visit My Credly</b>
-  </a>
-</p>
+  <div style="float: right;">
+    <a href="https://www.credly.com/users/pranjal-upadhyay.18" target="_blank">
+      🔗 <b>Visit My Credly</b>
+    </a>
+  </div>
+</div>
 
 
 
