@@ -101,7 +101,8 @@ Here’s the link to all my projects:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PranjalU001&show_icons=true&theme=dracula" height="150" alt="stats graph"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalU001&layout=compact&theme=dracula" height="150" alt="languages graph"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalU001&layout=compact&theme=dracula" height="150" alt="languages graph"/> <br>
+  <br>
    <img src="https://github-profile-trophy.vercel.app?username=PranjalU001&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </p>
 <p align="center">
