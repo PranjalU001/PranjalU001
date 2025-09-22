@@ -67,7 +67,7 @@
 ## 📂 My Projects  
 
 Here’s the link to all my projects:  
-👉 [**All Projects Repository**](https://github.com/YOUR_USERNAME/All-Projects) <!-- Upcoming Addition new url -->  
+👉 [**All Projects Repository**](https://github.com/YOUR_USERNAME/All-Projects) <!-- Upcoming Addition new ur.l -->  
 
 ### 🚀 Featured Projects  
 
